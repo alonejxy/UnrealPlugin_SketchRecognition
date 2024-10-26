@@ -9,6 +9,7 @@
 - Double-click to run the level named "Demo" in the plugin's `/Content/` directory.
 - Follow the on-screen instructions in the top-left corner, press the "T" key to open the drawing board.
 - Use your mouse or trackpad to sketch on the canvas, then click the "Run" button at the bottom. The recognized category will be displayed on the bottom-left, while your artwork's score for the current prompted category will be shown on the bottom-right.
+- There are 344 identifiable categories.
 - Example:
   ![](./Snipaste_2024-06-19_21-03-36.png)
 
