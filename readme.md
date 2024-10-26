@@ -40,4 +40,4 @@ LogTemp: model reasoning success
 
 # Reference
 
-- The model used here is the official model from our paper, "DSSG: Spatiotemporal Sketch Representation for Graph Data" (ICIVIS-2024), of which I am the first author. Full implementation details of this model are provided in the paper.
+- The model used here is the official model from our paper, "DSSG: Spatiotemporal Sketch Representation for Graph Data" (ICIVIS-2024), of which I am the first author. More implementation details of this model are provided in the paper, and it can also be referenced for data retrieval in Unreal Engine Blueprints and data processing logic in code.
