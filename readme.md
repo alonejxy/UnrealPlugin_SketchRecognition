@@ -21,8 +21,10 @@
 # Improvement
 
 - This version of the code uses Tick to collect data, which sometimes causes sampling failure. You can change it according to the following figure:
-  ![](./improve1.png)
-  ![](./improve2.png)
+  -  In Demo Level Blueprint
+    ![](./improve1.png)
+  -  In WBP_painting_board Blueprint
+    ![](./improve2.png) 
 
 # Bugs
 
@@ -36,3 +38,6 @@ LogTemp: Predict_Lable:0
 LogTemp: model reasoning success
 ```
 
+# Reference
+
+- The model used here is the official model from our paper, "DSSG: Spatiotemporal Sketch Representation for Graph Data" (ICIVIS-2024), of which I am the first author. Full implementation details of this model are provided in the paper.
